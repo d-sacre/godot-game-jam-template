@@ -7,6 +7,7 @@ A simple Game Jam Template for Godot 4.4, containing many commonly needed featur
 - Settings system including saving of User Settings to file
 - A test scene with basic 3D World settings
 - Prepared for integration of Debug Tools (currently included: fps display)
+- Export fully configured for Windows, Linux and Web
 
 # How to Use
 In theory, it should be very simple:
